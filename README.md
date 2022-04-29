@@ -6,6 +6,7 @@ Template for React JS v18 + Typescript + Jest
 - React 18
 - Typescript
 - Jest
+- Generate React CLI
 
 ## Installation
 
